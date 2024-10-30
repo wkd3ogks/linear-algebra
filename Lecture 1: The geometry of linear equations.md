@@ -21,7 +21,11 @@
    ![Screenshot from 2024-10-31 04-34-37](https://github.com/user-attachments/assets/b4c56041-5465-4b47-a467-fd9c0f1d3f92)
 
 3. **Column picture** : the picture of one column at a time
-4. Matrix form(the algebra way to look at problem) : using matrix
+   - finding right **linear combination**(multiply some number and add...) of columns
+     
+   ![equation(4)](https://github.com/user-attachments/assets/f3888b83-f472-462f-a9e8-e532353dec46)
+
+5. Matrix form(the algebra way to look at problem) : using matrix
 ## When could it go wrong
 
 ## Nine demensions
