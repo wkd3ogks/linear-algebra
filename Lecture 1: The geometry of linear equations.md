@@ -6,9 +6,9 @@
 
 ## The Matrix
 
-#### example
+#### example 1
 
-![example](https://github.com/user-attachments/assets/79ae3e84-353e-415f-b80d-91f2e0749526)
+![example 1](https://github.com/user-attachments/assets/79ae3e84-353e-415f-b80d-91f2e0749526)
 
 - Coefficient Matrix
   - **A** is Coefficient Matrix
@@ -20,12 +20,33 @@
    
    ![Screenshot from 2024-10-31 04-34-37](https://github.com/user-attachments/assets/b4c56041-5465-4b47-a467-fd9c0f1d3f92)
 
-3. **Column picture** : the picture of one column at a time
+2. **Column picture** : the picture of one column at a time
    - finding right **linear combination**(multiply some number and add...) of columns
      
    ![equation(4)](https://github.com/user-attachments/assets/f3888b83-f472-462f-a9e8-e532353dec46)
 
-5. Matrix form(the algebra way to look at problem) : using matrix
+   ![Screenshot from 2024-10-31 10-54-01](https://github.com/user-attachments/assets/28744648-3f3f-4dec-b616-1d152d9539e9)
+
+
+   - 관련영상 : ![Linear transformations and matrices | 3Blue1Brown ](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
+
+#### example 2
+
+![example 2](https://github.com/user-attachments/assets/6f7e97fa-3eab-4ae1-9731-10b22788fefb)
+
+![equation(7)](https://github.com/user-attachments/assets/4dfcc68c-dbfa-4670-9ee8-1fcca685a31f)
+
+
+1. row picture
+
+    - row picture consists of three planes and if everything works right, three planes meet in one point and thats's a solution
+   
+2. column picture
+   
+   ![equation(8)](https://github.com/user-attachments/assets/580c4c76-87e6-495f-823a-a2c26a06f70e)
+
+
+4. Matrix form(the algebra way to look at problem) : using matrix
 ## When could it go wrong
 
 ## Nine demensions
