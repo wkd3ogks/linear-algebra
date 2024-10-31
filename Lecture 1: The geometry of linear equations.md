@@ -27,7 +27,7 @@
 
    ![Screenshot from 2024-10-31 10-54-01](https://github.com/user-attachments/assets/28744648-3f3f-4dec-b616-1d152d9539e9)
 
-   - 관련영상 : ![Linear transformations and matrices | 3Blue1Brown ](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
+   - 관련영상 : [Linear transformations and matrices | 3Blue1Brown ](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
 
 #### example 2
 
