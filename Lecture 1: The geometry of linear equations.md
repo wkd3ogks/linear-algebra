@@ -27,8 +27,9 @@
 
    ![Screenshot from 2024-10-31 10-54-01](https://github.com/user-attachments/assets/28744648-3f3f-4dec-b616-1d152d9539e9)
 
-
    - 관련영상 : ![Linear transformations and matrices | 3Blue1Brown ](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
+     
+3. Matrix form(the algebra way to look at problem) : using matrix
 
 #### example 2
 
@@ -36,18 +37,23 @@
 
 ![equation(7)](https://github.com/user-attachments/assets/4dfcc68c-dbfa-4670-9ee8-1fcca685a31f)
 
-
 1. row picture
 
     - row picture consists of three planes and if everything works right, three planes meet in one point and thats's a solution
    
 2. column picture
-   
+
+   - find right linear combination to make b($x = 0, y = 0, z = 1$)
+     
    ![equation(8)](https://github.com/user-attachments/assets/580c4c76-87e6-495f-823a-a2c26a06f70e)
 
-
-4. Matrix form(the algebra way to look at problem) : using matrix
-## When could it go wrong
+   ![Screenshot from 2024-10-31 11-23-11](https://github.com/user-attachments/assets/aa48ff04-cf4a-4374-9a34-f8bb7345a4f4)
+> think about all bs(all right-hand sides)
+- Can I solve $Ax=b$ for every $b$?
+  - = Do the linear combinations of the columns fill 3-D space?
+  - **For this A, answer is YES**
+    
+## When could it go wrong?
 
 ## Nine demensions
 
